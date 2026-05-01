@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Bruno]! 👋
+# Olá, eu sou o Bruno! 👋
 
 
 <!-- O destaque que você queria! -->
