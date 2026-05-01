@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Bruno]! 👋
 
-### 🐍 Snake Game (Sua contribuição em movimento)
+
 <!-- O destaque que você queria! -->
 ![Snake animation](https://github.com/tekoghost/tekoghost/blob/output/github-contribution-grid-snake.svg)
 ### 🛠️ Tecnologias e Ferramentas
