@@ -1,6 +1,5 @@
 <div align="center">
 <img src="tekoghost.jpg" width="100%" />
-# Olá, eu sou o Bruno! 👋
 
 
 <!-- O destaque que você queria! -->
