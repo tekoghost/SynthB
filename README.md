@@ -4,7 +4,7 @@
 
 
 <!-- O destaque que você queria! -->
-![Snake animation](https://github.com/tekoghost/tekoghost/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tekoghost/tekoghost/blob/output/github-contribution-grid-snake-dark.svg)
 ### 🛠️ Tecnologias e Ferramentas
 <!-- Badges que dão cor ao perfil, estilo o do tekoghost -->
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
