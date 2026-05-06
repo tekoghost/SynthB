@@ -2,7 +2,7 @@
 
 <!-- BANNER DE IMPACTO -->
 
-#  Bruno | Student & Creator 
+#  Bruno | CC Student
 
 ---
 <!-- cobrinha maluca -->
