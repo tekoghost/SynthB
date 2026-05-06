@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- BANNER DE IMPACTO -->
-<img src="tekoghost.jpg" width="100%" alt="Banner Kamen Rider Decade">
 
 #  Bruno | Student & Creator 
 
