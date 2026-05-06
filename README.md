@@ -6,7 +6,7 @@
 
 ---
 <!-- cobrinha maluca -->
-![Snake](https://github.com/tekoghost/tekoghost/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/tekoghost/tekoghost/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
